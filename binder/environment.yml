@@ -32,13 +32,13 @@ dependencies:
   - subread=2.0.3
   - samtools=1.18
   - star=2.7.10a
-  - bowtie2=2.5.4
-  - bwa=0.7.19
-  - deeptools=3.5.6
-  - bedtools=2.31.1
-  - macs2=2.2.9.1
-  - sicer=1.1
-  - homer=5.1
+  - bowtie2
+  - bwa
+  - deeptools
+  - bedtools
+  - macs2
+  - sicer
+  - homer
   
   
 

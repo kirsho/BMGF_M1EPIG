@@ -36,5 +36,4 @@ dependencies:
   - bwa=0.7.19
   - deeptools=3.5.6
   - bedtools=2.31.1
-  - sicer
   - homer=5.1
